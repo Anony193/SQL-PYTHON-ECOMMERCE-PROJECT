@@ -5,33 +5,33 @@ This project demonstrates end-to-end data analysis of a real-world eCommerce dat
 
 🚀 Key Features
 
-Data Integration: Automated import of multiple CSV files (customers, orders, products, sellers, payments, geolocation, and order_items) into a MySQL database using Python (pymysql, pandas, os).
+-Data Integration: Automated import of multiple CSV files (customers, orders, products, sellers, payments, geolocation, and order_items) into a MySQL database using Python (pymysql, pandas, os).
 
-Database Design: Proper relational schema with primary and foreign key relationships between all entities.
+-Database Design: Proper relational schema with primary and foreign key relationships between all entities.
 
-SQL Queries for Analysis:
+-SQL Queries for Analysis:
 
-Monthly sales trends and growth rate
+-Monthly sales trends and growth rate
 
-Top-selling product categories
+-Top-selling product categories
 
-Customer order frequency and retention analysis
+-Customer order frequency and retention analysis
 
-Seller performance and revenue contribution
+-Seller performance and revenue contribution
 
-Payment method analysis
+-Payment method analysis
 
-Python + SQL Integration: Executed SQL queries from Python to fetch, clean, and visualize results using pandas, matplotlib, and seaborn.
+-Python + SQL Integration: Executed SQL queries from Python to fetch, clean, and visualize results using pandas, matplotlib, and seaborn.
 
-Data Visualization:
+-Data Visualization:
 
-Monthly order distribution
+-Monthly order distribution
 
-Sales by product category
+-Sales by product category
 
-Payment trends by method
+-Payment trends by method
 
-Customer purchase frequency
+-Customer purchase frequency
 
 🧠 Tech Stack
 Component	Tools Used
