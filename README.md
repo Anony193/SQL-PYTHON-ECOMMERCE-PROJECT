@@ -1,4 +1,5 @@
 🛍️eCommerce Data Analysis using SQL & Python
+
 📘 Overview
 
 This project demonstrates end-to-end data analysis of a real-world eCommerce dataset using Python and MySQL. The goal is to analyze customer behavior, order patterns, product performance, and payment trends to generate insightful business intelligence from raw transactional data.
