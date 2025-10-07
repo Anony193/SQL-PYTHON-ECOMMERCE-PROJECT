@@ -35,6 +35,7 @@ This project demonstrates end-to-end data analysis of a real-world eCommerce dat
 
 🧠 Tech Stack
 Component	Tools Used
+
 Programming Language	- Python
 
 Database - MySQL
