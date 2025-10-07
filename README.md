@@ -36,6 +36,9 @@ This project demonstrates end-to-end data analysis of a real-world eCommerce dat
 🧠 Tech Stack
 Component	Tools Used
 Programming Language	- Python
+
 Database - MySQL
+
 Libraries	- pandas, pymysql, matplotlib, seaborn
+
 Dataset -	eCommerce transactional dataset (customers, orders, payments, etc.)
